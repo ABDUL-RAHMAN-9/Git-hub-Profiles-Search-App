@@ -50,9 +50,9 @@ cd github-profile-search
 
 - No server setup needed — it's a pure frontend project.
 
-## 📸 Preview
+## 🚀 Live Demo
 
-Add URLs HEre..
+🔗 [View Live App](https://abdul-rahman-9.github.io/Git-hub-Profiles-Search-App/)
 
 
 ## 📌 Todo
